@@ -1,0 +1,1 @@
+# Class_Static_Methods_Python
